@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently a Student<br>👯 I’m looking to collaborate on OpenSource Projects<br>🌱 Intrested in fields such as Software Development, Website Development etc<br>💬 How to reach me syedanas2607@gmail.com<br>👨‍💻 All of my projects are available at SyedAnas26
+🔭 I’m currently a Student<br>👯 I’m looking to collaborate on OpenSource Projects<br>🌱 Intrested in fields such as Software Development, Website Development etc<br>💬 How to reach me syedanas2607@gmail.com<br>👨‍💻 All of my projects are available at [syedanas.com](https://syedanas.com)
 
 
 ## 🌐 Socials:
