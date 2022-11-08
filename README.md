@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/SyedAnas26/SyedAnas26/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 💫 About Me:
 🔭 I’m currently a Computer Science Student<br>👯 I’m looking to collaborate on OpenSource Projects<br>🌱 I’m currently learning Flask and Tkinter<br>❓ Ask me about anything related to Full stack and related technologies<br>⚡ Fun fact: I keep night shift swithed on at all times <br>💬 How to reach me syedanas2607@gmail.com<br>👨‍💻 All of my projects are available at [syedanas.com](https://syedanas.com)
